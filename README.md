@@ -8,7 +8,7 @@ exam1
 - ListView and ContentProvider, as usual
  - Sort by date or name: +2
  - Labels list with counter and view by label: +2
- - Add/remove labels: +2
+ - Smart add/remove labels (remove label from all tasks after delete): +2
  - Advanced TBD: +3
 
 Deadline: 13:20
